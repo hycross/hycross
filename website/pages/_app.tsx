@@ -7,10 +7,10 @@ export default function App({ Component, pageProps }: AppProps) {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const timer = setTimeout(() => setLoading(false), 2000);
+    const timer = setTimeout(() => setLoading(false), 22000);
 
     return () => clearTimeout(timer);
   }, []);
-  
+
   return loading ? <SplashScreen /> : <Component {...pageProps} />
 }
