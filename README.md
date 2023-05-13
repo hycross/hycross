@@ -16,7 +16,7 @@ If you're new to open source, check out [GitHub's Open Source Guide](https://ope
 - Satvik_reddy_g
 
 ## Projects
-- Storm Robot (previously called "Lammu") - a robot which can walk, dance, sign and do much more entertaining things.
+- Storm Robot (previously called "Lammu") - a robot which can walk, dance, sing and do much more entertaining things.
 - SecretProject101 - a secret project we are working on.
 - working on more....
 
